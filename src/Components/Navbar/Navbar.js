@@ -3,11 +3,11 @@ import React from 'react';
 const Navbar = () => {
     return (
         <>
-            <div>
+            <h1>
                 Quốc Thiện
-            </div>
+            </h1>
             <div>
-                <h1>CHUYÊN: </h1>
+                <h2>CHUYÊN: </h2>
                 <div>iPhone cũ mới và các dòng Android như Samsung, Xiaomi, Redmi</div>
                 <div>Phụ kiện Anker: Sạc dự phòng, Củ sạc, Cáp sạc...</div>
             </div>
